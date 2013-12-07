@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 *.iml
 .idea
 *.cfg
-=======
 *.py[cod]
 
 # C extensions
@@ -39,4 +37,3 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
->>>>>>> 92341f711991bbd3aa7ff03a35a92968af28c674
